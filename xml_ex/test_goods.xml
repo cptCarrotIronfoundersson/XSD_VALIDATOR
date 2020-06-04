@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<goods_data goods_date = "2020-03-31">
+		<categories>
+			<category>
+				<id>1</id>
+				<name>Продукты питания</name>
+				<parent_id></parent_id>
+			</category>
+			<category>
+				<id>11</id>
+				<name>Сыры</name>
+				<parent_id>1</parent_id>
+			</category>
+			<category>
+				<id>12</id>
+				<name>Колбасные изделия и мясные деликатесы</name>
+				<parent_id>1</parent_id>
+			</category>
+			<category>
+				<id>13</id>
+				<name>Овощи, зелень, грибы</name>
+				<parent_id>1</parent_id>
+			</category>
+			<category>
+				<id>111</id>
+				<name>Плавленые сыры</name>
+				<parent_id>11</parent_id>
+			</category>
+			<category>
+				<id>121</id>
+				<name>Колбасы вареные</name>
+				<parent_id>12</parent_id>
+			</category>
+			<category>
+				<id>131</id>
+				<name>Свежие овощи</name>
+				<parent_id>13</parent_id>
+			</category>
+
+		</categories>
+		<offers>
+			<offer>
+				<id>10460</id>
+				<article_num>0000042899_0</article_num>
+				<name>Плавленый сыр Hochland с ветчиной 55% 400 г</name>
+				<eans>
+					<ean>4607004890154</ean>
+				</eans>
+				<brand>Hochland</brand>
+				<manufacturer>Хохланд Руссланд ООО</manufacturer>
+				<country>Россия</country>
+				<product_type>per_item</product_type>
+				<category_id>111</category_id>
+				<weight_netto>400</weight_netto>
+				<weight_brutto>400</weight_brutto>
+				<vat>20</vat>
+				<is_private_lable>false</is_private_lable>
+<is_alcohol>false</is_alcohol>
+				<ingredients></ingredients>
+				<images>
+					<image>
+						<image_url>http://sbermarket.ru/1.jpg</image_url>
+						<image_name>1.jpg</image_name>
+					</image>
+					<image>
+						<image_url>http://sbermarket.ru/2.jpg</image_url>
+						<image_name>2.jpg</image_name>
+					</image>
+					<image>
+						<image_url>http://sbermarket.ru/3.jpg</image_url>
+						<image_name>3.jpg</image_name>
+					</image>
+				</images>
+				<product_info>
+					<ingredients></ingredients>
+					<calories></calories>
+					<proteins></proteins>
+					<fats></fats>
+					<storage_conditions></storage_conditions>
+					<shelf_life></shelf_life>
+					<description>Сливочный плавленый сыр Hochland обладает нежным вкусом, тающим во рту. Он изготавливается из классического натурального сыра. И на ломтике хлеба, и хрустящем крекере он станет отличным началом вашего дня. Кроме того сливочный вкус плавленого сыра Hochland идеально подходит для кулинарии – как для горячих, так и холодных блюд. Он придает блюдам сливочный вкус и тягучую консистенцию сыра.</description >
+					<additional_info></additional_info>
+				</product_info>
+
+			</offer>
+			<offer>
+				<id>10461</id>
+<article_num>0000042899_0</article_num>
+				<name>Колбаса Рублевский Телячья вареная ~2 кг</name>
+				<eans>
+					<ean>4607004890154</ean>
+					<ean>4607004890153</ean>
+				</eans>
+				<brand>Рублевский</brand>
+				<manufacturer>Мясоперерабатывающий Завод Рублевский</manufacturer>
+				<country>Россия</country>
+				<product_type>Фасованный</product_type>
+				<category_id>121</category_id>
+				<weight_netto>2000</weight_netto>
+				<weight_brutto>2000</weight_brutto>
+				<vat>20</vat>
+	<is_private_lable>false</is_private_lable>
+<is_alcohol>false</is_alcohol>
+				<images>
+					<image>
+						<image_url>http://sbermarket.ru/1.jpg</image_url>
+						<image_name>1.jpg</image_name>
+					</image>
+					<image>
+						<image_url>http://sbermarket.ru/2.jpg</image_url>
+						<image_name>2.jpg</image_name>
+					</image>
+					<image>
+						<image_url>http://sbermarket.ru/3.jpg</image_url>
+						<image_name>3.jpg</image_name>
+					</image>
+				</images>
+				<product_info>
+					<ingredients></ingredients>
+					<calories></calories>
+					<proteins></proteins>
+					<fats></fats>
+					<storage_conditions></storage_conditions>
+					<shelf_life></shelf_life>
+					<description>МПЗ «Рублёвский» в своей ежедневной работе, особенно внимание уделяет соблюдению гигиенических норм на производстве. Жёсткий контроль чистоты сырья и качества продукта, который выпускается на рынок – приоритетные аспекты нашей работы. Вся продукция выпускается с производства, которое соответствует не только отечественным стандартам, но и строгим качественным нормам для пищевых товаров премиального сегмента, которые приняты в Европе. В рамках этой работы, предусматривается регулярная проверка и комплексная оценка продуктов.</description >
+					<additional_info></additional_info>
+				</product_info>
+
+			</offer>
+			<offer>
+				<id>10642</id>
+				<article_num>as000428990</article_num>
+				<name>Томаты</name>
+				<eans>
+					<ean>4607004890154</ean>
+				</eans>
+				<brand></brand>
+				<manufacturer></manufacturer>
+				<country>Турция</country>
+				<product_type>per_kilo</product_type>
+				<category_id>131</category_id>
+				<weight_netto>1000</weight_netto>
+				<weight_brutto>1000</weight_brutto>
+				<vat>20</vat>
+				<is_private_lable>false</is_private_lable>
+<is_alcohol>false</is_alcohol>
+				<images>
+					<image>
+						<image_url>http://sbermarket.ru/1.jpg</image_url>
+						<image_name>1.jpg</image_name>
+					</image>
+					<image>
+						<image_url>http://sbermarket.ru/2.jpg</image_url>
+						<image_name>2.jpg</image_name>
+					</image>
+					<image>
+						<image_url>http://sbermarket.ru/3.jpg</image_url>
+						<image_name>3.jpg</image_name>
+					</image>
+				</images>
+				<product_info>
+					<ingredients></ingredients>
+					<calories></calories>
+					<proteins></proteins>
+					<fats></fats>
+					<storage_conditions></storage_conditions>
+					<shelf_life></shelf_life>
+					<description></description>
+					<additional_info></additional_info>
+				</product_info>
+
+			</offer>
+		</offers>
+	</goods_data>

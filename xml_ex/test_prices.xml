@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<price_data price_date = "2020-03-25">
+		<offer >
+			<id>10461</id>
+			<name>Томаты</name>
+			<type>per_kilo</type>
+			<regular_price>33.70</regular_price>
+			<discount_price/>
+			<discount_from_date/>
+			<discount_to_date/>
+		</offer>
+		<offer>
+			<id>10642</id>
+			<name>Колбаса Рублевский Телячья вареная ~2 кг</name>
+			<type>per_kilo</type>
+			<regular_price>45.30</regular_price>
+			<discount_price/>
+			<discount_from_date/>
+			<discount_to_date/>
+		</offer>
+		<offer>
+			<id>10460</id>
+			<name>Томаты</name>
+			<type>per_item</type>
+			<regular_price>75.30</regular_price>
+			<discount_price>44.90</discount_price>
+			<discount_from_date>2002-09-24</discount_from_date>
+			<discount_to_date>2002-09-24</discount_to_date>
+		</offer>
+	</price_data>
